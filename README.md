@@ -1,9 +1,3 @@
-# Lich Am Viet Nam (2026 - 2100) - Chuan Thien Van UTC+7
-### Toi uu hoa cho dien thoai Xiaomi CN (HyperOS / MIUI), Google Calendar, Apple Calendar, Outlook
-**Tac gia / Nguoi lam: IN**
-
----
-
 ## 1. Gioi Thieu
 Du an cung cap du lieu Lich Am Viet Nam dinh dang iCalendar (.ics) chuan thien van tu nam 2026 den het nam 2100. Du lieu duoc tinh toan dua tren co hoc thien the cua Jean Meeus va thuat toan lich phap cua TS. Ho Ngoc Duc danh rieng cho Viet Nam (Mui gio phap dinh UTC+7, kinh tuyen 105 do Dong qua Ha Noi).
 
@@ -13,46 +7,43 @@ Du an cung cap du lieu Lich Am Viet Nam dinh dang iCalendar (.ics) chuan thien v
 - Khong gay ban lich (TRANSP:TRANSPARENT): Toan bo ngay am o che do Free (Ranh), khong chiem dung thoi gian hay anh huong den lich hop, lich cong viec.
 - Thong tin day du khi xem chi tiet: Ngay am, Can Chi ngay, Can Chi thang, Can Chi nam, Con giap truyen thong Viet Nam (Meo, Trau, Heo...), 24 Tiet Khi thien van va ngay le lon.
 
+# Lich Am Viet Nam (2026 - 2100)
+Lich Am Viet Nam chuan thien van UTC+7 (105E). Toi uu cho Xiaomi HyperOS / MIUI CN, Google Calendar, Apple Calendar va Outlook.
+
+Nguoi lam: IN
+
 ---
 
-## 2. Duong Dan Dang Ky Lich (Subscribe URL)
+### Duong Dan Dang Ky Lich (Subscribe URL)
 
-Ban co the su dung truc tiep duong dan sau de them vao ung dung lich (thay the `<username>` va `<repo>` bang tai khoan va ten repository cua ban):
+Dan link truc tiep vao ung dung lich de tu dong dong bo tron doi:
 
-- Ban tieu chuan tron doi (2026 - 2100):
-```text
-https://raw.githubusercontent.com/<username>/<repo>/main/lich_am_viet_nam_2026_2100_IN_standard.ics
-```
+- Ban tieu chuan (Day du thong tin, 2026 - 2100):
+https://raw.githubusercontent.com/lamnobIN/licham-for-hyperoscn/main/lich_am_viet_nam_2026_2100_IN_standard.ics
 
-- Ban tieu de rut gon chuyen dung cho Widget man hinh chinh (2026 - 2100):
-```text
-https://raw.githubusercontent.com/<username>/<repo>/main/lich_am_viet_nam_2026_2100_IN_compact.ics
-```
+- Ban tieu de rut gon (Toi uu rieng cho Widget man hinh chinh, 2026 - 2100):
+https://raw.githubusercontent.com/lamnobIN/licham-for-hyperoscn/main/lich_am_viet_nam_2026_2100_IN_compact.ics
 
 - Ban 10 nam nhe nhang (2026 - 2036):
-```text
-https://raw.githubusercontent.com/<username>/<repo>/main/lich_am_viet_nam_2026_2036_IN_standard.ics
-```
+https://raw.githubusercontent.com/lamnobIN/licham-for-hyperoscn/main/lich_am_viet_nam_2026_2036_IN_standard.ics
 
 ---
 
-## 3. Huong Dan Cai Dat Nhanh Theo Thiet Bi
+### Huong Dan Cai Dat Nhanh
 
-### A. Google Calendar (Dong bo dien thoai Android / Xiaomi)
-1. Truy cap [calendar.google.com](https://calendar.google.com) tren trinh duyet may tinh.
-2. Nhan bieu tuong dau (+) ben canh muc "Lich khac" (Other calendars) -> Chon "Tu URL" (From URL).
-3. Dan duong link Raw o tren vao -> Nhan "Them lich" (Add calendar).
-4. Tren dien thoai: Vao Cai dat -> Tai khoan & Dong bo -> Google -> Bat dong bo Lich.
+- Google Calendar: Truy cap calendar.google.com -> Muc "Lich khac" chon (+) -> Chon "Tu URL" -> Dan link tren -> Nhan Them lich.
+- Apple (iPhone / iPad / Mac): Vao Cai dat -> Lich -> Tai khoan -> Them tai khoan -> Khac -> Them lich da dang ky -> Dan link -> Luu.
+- Xiaomi CN (HyperOS / MIUI):
+  - Cach 1: Dong bo qua tai khoan Google Calendar o tren (tu dong cap nhat).
+  - Cach 2: Tai file .ics ve may -> Mo bang app Quan ly tap tin -> Mo bang app Lich Xiaomi -> Chon luu vao Tai khoan cuc bo.
 
-### B. Apple (iPhone / iPad / Mac)
-1. Vao Cai dat (Settings) -> Lich (Calendar) -> Tai khoan (Accounts).
-2. Chon "Them tai khoan" (Add Account) -> "Khac" (Other) -> "Them lich da dang ky" (Add Subscribed Calendar).
-3. Dan duong link Raw o tren vao -> Nhan Tiep tuc va Luu.
+---
 
-### C. Dien thoai Xiaomi CN (ROM noi dia HyperOS / MIUI)
-- Cach 1 (Online): Dong bo qua Google Calendar theo huong dan o muc A.
-- Cach 2 (Offline): Tai file `.ics` ve may -> Mo bang app Quan ly tap tin -> Mo bang ung dung Lich cua Xiaomi -> Chon luu vao Tai khoan cuc bo (Local Calendar) -> Nhan Nhap.
-
+### Dac Diem Chinh
+- Chuan thien van UTC+7 theo thuat toan TS. Ho Ngoc Duc den nam 2100 (khong lech Tet 2030, 2053).
+- 100% khong dung emoji, khong lo loi font hay dau cham hoi tren moi ROM.
+- Khong gay ban lich (trang thai Transparent), khong anh huong den lich hop hay lich ca nhan.
+- Giay phep: MIT License.
 ---
 
 ## 4. Giay Phep (License)

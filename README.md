@@ -19,13 +19,13 @@ Nguoi lam: IN
 Dan link truc tiep vao ung dung lich de tu dong dong bo tron doi:
 
 - Ban tieu chuan (Day du thong tin, 2026 - 2100):
-https://raw.githubusercontent.com/lamnobIN/licham-for-hyperoscn/main/lich_am_viet_nam_2026_2100_IN_standard.ics
+https://raw.githubusercontent.com/IamnobIN/licham-for-hyperoscn/main/lich_am_viet_nam_2026_2100_IN_standard.ics
 
 - Ban tieu de rut gon (Toi uu rieng cho Widget man hinh chinh, 2026 - 2100):
-https://raw.githubusercontent.com/lamnobIN/licham-for-hyperoscn/main/lich_am_viet_nam_2026_2100_IN_compact.ics
+https://raw.githubusercontent.com/IamnobIN/licham-for-hyperoscn/main/lich_am_viet_nam_2026_2100_IN_compact.ics
 
 - Ban 10 nam nhe nhang (2026 - 2036):
-https://raw.githubusercontent.com/lamnobIN/licham-for-hyperoscn/main/lich_am_viet_nam_2026_2036_IN_standard.ics
+https://raw.githubusercontent.com/IamnobIN/licham-for-hyperoscn/main/lich_am_viet_nam_2026_2036_IN_standard.ics
 
 ---
 
